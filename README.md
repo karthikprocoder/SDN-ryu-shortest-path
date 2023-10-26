@@ -7,7 +7,7 @@
 2) run the 210010022_controller.py file using the following command
 
     ``` sh
-     ryu-manager --observer-links 210010022_controller.py
+     ryu-manager --observe-links 210010022_controller.py
      ```
  
 3) connect to mininet
